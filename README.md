@@ -1,4 +1,3 @@
-Markdown
 
 
 # Simple Git Uploader (or your chosen name)
